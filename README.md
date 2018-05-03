@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InfoLeak-Scanner
 
 ## Docker
@@ -354,3 +355,6 @@ Especially tested on:
 
 
 
+=======
+# ADILWA2
+>>>>>>> 7481021e362a67d684486c2154806e95d74292a4
